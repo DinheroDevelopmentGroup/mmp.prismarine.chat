@@ -1,0 +1,16 @@
+{
+  "name": "prismarine.chat",
+  "author": "Dinhero Development Group",
+  "license": "MIT",
+  "description": "prismarine-chat wrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "prismarine-chat": "^1.10.1"
+  }
+}
