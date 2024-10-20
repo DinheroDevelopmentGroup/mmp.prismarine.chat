@@ -1,4 +1,6 @@
 {
-  "name": "prismarine.chat",
-  "dependencies": []
+  "dependencies": [
+    "https://github.com/DinheroDevelopmentGroup/mmp.prismarine.registry.git"
+  ],
+  "name": "prismarine.chat"
 }
